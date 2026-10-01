@@ -1,0 +1,16 @@
+﻿{
+  "name": "khodair-change-toolkit",
+  "version": "1.0.0",
+  "description": "KHODAIR Change Management Toolkit",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo build"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
